@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require 'base64'
 str = 'VGhpcyBpcyBsaW5lIG9uZQpUaGlzIG' +
         'lzIGxpbmUgdHdvClRoaXMgaXMgbGlu' +

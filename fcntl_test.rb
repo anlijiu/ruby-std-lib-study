@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require 'fcntl'
 
 fd = IO.sysopen('/tmp/tempfile',  Fcntl::O_WRONLY | Fcntl::O_EXCL | Fcntl::O_CREAT)

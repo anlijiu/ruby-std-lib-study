@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require 'forwardable'
 
 #将  类的实例变量的record_number方法 转移到 成员变量  :records[] 上

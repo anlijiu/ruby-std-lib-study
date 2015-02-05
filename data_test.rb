@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require 'date'
 
 p Date.new(2001,2,3)

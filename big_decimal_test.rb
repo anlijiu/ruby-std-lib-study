@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 sum = 0
 10_000.times do
     sum = sum + 0.0001

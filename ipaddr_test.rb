@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require 'ipaddr'
 
 ipaddr1 = IPAddr.new "3ffe:505:2::1"

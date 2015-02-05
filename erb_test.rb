@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require 'erb'
 class MyClass
   extend ERB::DefMethod
